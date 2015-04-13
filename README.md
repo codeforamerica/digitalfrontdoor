@@ -17,9 +17,9 @@ DFD is an intitiative composed of a set of products (see table above) and practi
 * [1] http://www.codeforamerica.org/our-work/initiatives/digitalfrontdoor/
 * [2] http://www.codeforamerica.org/governments/principles/
 
-## I have an idea in regards to this project, what do I do?
+## I have an idea/problem/other in regards to this project, what do I do?
 
-### General DFD ideas / thoughts / queries
+### General DFD ideas / queries / other
 You can email Frances at frances@codeforamerica.org to chat about your ideas.  
 
 ### Problems with content relating to DFD
