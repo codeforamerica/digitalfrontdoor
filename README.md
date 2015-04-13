@@ -7,8 +7,8 @@ Project | [Phase](https://www.gov.uk/service-manual/phases) |
 ------- | ----- | 
 [City Analytics Dashboard](https://github.com/codeforamerica/city-analytics-dashboard/) A simple visualisation of a city's google analtycis data  | Beta |
 [City Analytics Dashboard Setup](https://github.com/codeforamerica/city-analytics-dashboard-setup/) An installer for the dashboard  | Beta |
-[Ceviche CMS](https://github.com/codeforamerica/ceviche-cms/) An opinionated CMS  | MVP |
-[Ceviche Starter](https://github.com/codeforamerica/ceviche-starter/) A vanilla jekyll build of a city website  | MVP | 
+[Chime CMS](https://github.com/codeforamerica/ceviche-cms/) An opinionated CMS  | MVP |
+[Chime Starter](https://github.com/codeforamerica/ceviche-starter/) A vanilla jekyll build of a city website  | MVP | 
 [Packing Light](https://github.com/codeforamerica/packing-light/) Thinking about content auditing and migration  | Discovery |
 
 ## What is the Digital Front Door project?
