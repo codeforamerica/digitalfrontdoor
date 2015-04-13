@@ -21,7 +21,7 @@ DFD is an intitiative composed of a set of products (see table above) and practi
 ## I have an idea/problem/other in regards to this project, what do I do?
 
 ### General DFD ideas / queries / other
-Email Frances at frances@codeforamerica.org to chat about your ideas.
+Email Frances at frances@codeforamerica.org to chat about your ideas or make an issue: https://github.com/codeforamerica/digitalfrontdoor/issues/new
 
 Those in CfA slack can also visit #dfd-product
 
